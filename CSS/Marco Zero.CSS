@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(220, 25%, 86%);
+}
+header {
+    background-color: #0074c2;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+}
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+img {
+    max-width: 100%;
+}
+footer {
+    background-color: #0074c2;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+</style>
